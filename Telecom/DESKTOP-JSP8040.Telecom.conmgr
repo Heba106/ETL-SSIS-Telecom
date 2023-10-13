@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-JSP8040.Telecom"
+  DTS:DTSID="{180DDC13-AA30-49DB-B2F5-014B3D54D02B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-JSP8040;Initial Catalog=Telecom;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Telecom-{180DDC13-AA30-49DB-B2F5-014B3D54D02B}DESKTOP-JSP8040.Telecom;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
