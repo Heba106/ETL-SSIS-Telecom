@@ -10,7 +10,7 @@ Signalling data describes the subscriber network activities and interaction. Sub
 The network vendor collects the subscriber data in real-time and bulk every 5 min activity in one fill and push it to landing servers.
 
 ###  **4G Signaling Data**
-Created by Moustafa Mahmoud,
+Created by [Moustafa Mahmoud](https://gability.com/en/)
 
 The dataset is generated using a script and it does not describe the full telecom dataset for signalling but it simulates the general idea.
 
@@ -65,7 +65,7 @@ After completing the data storage process in the database according to the afore
 
 In this section, you can find screenshots of the different stages of the ETL process, showcasing key stages, including data flow, successful control flow execution, and data loading into the Data Warehouse (DWH).
 
-<!-- add a label -->
+
 ### **Data Flow**
 ![Data Flow](./images/data_flow.jpg)
 
